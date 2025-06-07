@@ -1,11 +1,7 @@
-# Portfolio CMS
-## Portfolio template, made using Netlify CMS
+# Portfolio of Özgür Deli
 
-# Deploy on Netlify
+## Skills, Know-How and Projects
 
-Use  `export` as build command
- 
-```js
-yarn export
-```
- 
+# Watch live
+
+https://oezguer-deli.netlify.app/
