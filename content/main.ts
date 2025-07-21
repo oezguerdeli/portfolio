@@ -54,12 +54,12 @@ export const attributes = {
     projects: [
       {
         btnLink: 'https://wedev-it.at',
-        btnText: 'Coming Soon',
-        image: '/img/project-1.jpeg',
-        title: 'Coming Soon',
+        btnText: 'Check out our references',
+        image: '/img/wedev-it_logo.jpg',
+        title: 'WeDev-IT',
       },
     ],
     title: 'My work',
   },
-  footer: { text: '© John Doe' },
+  footer: { text: '© Özgür Deli' },
 };
